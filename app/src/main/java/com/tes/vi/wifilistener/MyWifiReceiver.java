@@ -44,5 +44,7 @@ public class MyWifiReceiver extends BroadcastReceiver {
         Toast.makeText(context, wInfo + "\n" + ssid, Toast.LENGTH_LONG).show();
         //Log.i("INFO", wInfo + "\n" + ssid);
         //startActivity(context,ssid+ "\n" + wInfo);
+
+        //tes change before create new branch
     }
 }
